@@ -27,7 +27,7 @@
         /* Header Styles */
         header {
             background: linear-gradient(90deg, #ffcc00, #ff9900);
-            padding: 1rem;
+            padding: 0.1rem;
             position: sticky;
             top: 0;
             z-index: 1000;
@@ -50,7 +50,7 @@
         }
 
         .logo {
-            height: 75px;
+            height: 60px;
         }
 
         .language-switch {
